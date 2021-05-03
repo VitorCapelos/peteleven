@@ -177,3 +177,7 @@ textarea {
 	top: 50px;
 	right: 50px;
 }
+
+textarea {
+	resize: none;
+}
