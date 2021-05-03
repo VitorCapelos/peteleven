@@ -1,0 +1,179 @@
+html {
+	display: table;
+	margin: auto;
+	background: #f1f3fa;
+}
+
+html,
+body {
+	height: 100%;
+}
+
+body {
+	font-family: Georgia, serif;
+	padding: 0px;
+	margin: 0px;
+	width: 1366px;
+	height: 768px;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.top {
+	background: #16a1af;
+	width: 100%;
+	height: 100px;
+}
+
+.logo {
+	float: left;
+	margin-top: 1%;
+	margin-left: 20%;
+	width: 150px;
+	height: auto;
+}
+
+.logo.footer {
+	margin: 0px;
+	margin-top: 30px;
+	margin-right: 100px;
+	float: right;
+}
+
+.search input {
+	float: right;
+	margin-top: 3%;
+	margin-right: 25%;
+	width: 400px;
+}
+
+.navbar {
+	background: #46adb8;
+	height: 50px;
+}
+
+.navbar ul {
+	padding: 0px;
+	margin: 0px;
+	padding-top: 1%;
+	margin-left: 50%;
+	list-style: none;
+}
+.navbar ul li {
+	display: inline;
+}
+
+.navbar ul li a {
+	margin-right: 10px;
+	text-decoration: none;
+	color: #000;
+}
+
+.slide img {
+	display: none;
+	width: 100%;
+	height: 100%;
+}
+
+.slide.active img {
+	display: block;
+}
+
+.dots {
+	width: 100%;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 5px;
+}
+
+.dot {
+	display: block;
+	width: 14px;
+	height: 14px;
+	border-radius: 50px;
+	background-color: #cdd4db;
+	margin-right: 18px;
+	cursor: pointer;
+}
+
+.dot.active {
+	background-color: #46adb8;
+	border: 2px solid #16a1af;
+}
+
+.posts {
+	margin: 10px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+.posts .card {
+	float: left;
+	text-align: center;
+}
+.card {
+	background: red;
+	width: 300px;
+	height: 250px;
+	margin-right: 10px;
+}
+.card .card-image img {
+	width: 300px;
+	height: 250px;
+	overflow: hidden;
+}
+
+footer {
+	background: #06a843;
+	margin-top: 20px;
+	height: 200px;
+}
+
+.fastlinks {
+	padding-top: 20px;
+	text-align: center;
+}
+.fastlinks ul {
+	float: left;
+	list-style: none;
+	padding-left: 20px;
+}
+
+.fastlinks ul li a {
+	color: #000;
+	text-decoration: none;
+}
+.fastlinks ul li {
+	margin-top: 5px;
+}
+.link_title {
+	font-size: 24px;
+}
+
+.form-area {
+	margin: 20px;
+	position: relative;
+}
+
+.form-area .input {
+	padding-top: 10px;
+}
+.form-area form input,
+textarea {
+	display: block;
+	margin-top: 5px;
+}
+
+.form-area form button {
+	margin-top: 10px;
+	margin-left: 10%;
+}
+
+.form-area img {
+	position: absolute;
+	top: 50px;
+	right: 50px;
+}
