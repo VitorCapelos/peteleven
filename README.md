@@ -1,4 +1,4 @@
-# Site de Pet Shop do projeto de primeiro semestre Pet Eleven
+# Site Pet Eleven
 
   * [Página de Home](#index.html)
   * [Página de Fale Conosco](#faleconosco.html)
