@@ -1,0 +1,33 @@
+footer {
+	background: #06a843;
+	margin-top: 20px;
+	height: 200px;
+}
+
+.logo.footer {
+	margin: 0px;
+	margin-top: 30px;
+	margin-right: 100px;
+	float: right;
+}
+
+.fastlinks {
+	padding-top: 20px;
+	text-align: center;
+}
+.fastlinks ul {
+	float: left;
+	list-style: none;
+	padding-left: 20px;
+}
+
+.fastlinks ul li a {
+	color: #000;
+	text-decoration: none;
+}
+.fastlinks ul li {
+	margin-top: 5px;
+}
+.link_title {
+	font-size: 24px;
+}
