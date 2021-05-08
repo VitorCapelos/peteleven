@@ -17,6 +17,13 @@
     margin-bottom: 30px;
 }
 
+#store {
+    display: inline;
+    align-self: center;
+    align-items: center; 
+    justify-content: center; 
+}
+
 .store-image {
     display: flex;
     width: 320px;
