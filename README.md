@@ -6,6 +6,6 @@
 - [x] Página de Home 
 - [x] Página de Fale Conosco 
 
-- [ ] Página de Sobre
-  - [ ] Página da Emrpesa
-  - [ ] Página de FAQ
+- [x] Página de Sobre
+  - [X] Página da Emrpesa
+  - [X] Página de FAQ
