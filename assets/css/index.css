@@ -1,23 +1,17 @@
-html {
-	display: table;
-	margin: auto;
+/* html {
+	display: flex;
+    justify-content: center;
 	background: #f1f3fa;
 }
 
-html,
-body {
-	height: 100%;
-}
 
 body {
 	font-family: Georgia, serif;
 	padding: 0px;
 	margin: 0px;
-	width: 1366px;
-	height: 768px;
 	display: table-cell;
 	vertical-align: middle;
-}
+} */
 
 .slide img {
 	display: none;
@@ -79,6 +73,7 @@ body {
 .form-area {
 	margin: 20px;
 	position: relative;
+
 }
 
 .form-area .input {
