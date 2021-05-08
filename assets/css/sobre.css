@@ -25,13 +25,14 @@
     margin-left: 30px;
 }
 
-#img1 {
+#store #img1 {
     background:url(/assets/img/about-page/pet-shop-about.png);
     background-size: cover;
 }
 
-#img2 {
+#store #img2 {
     background:url(/assets/img/about-page/girl-pointer-about.jpg);
     background-size: cover;
     background-position-x: -70px;
 }
+
